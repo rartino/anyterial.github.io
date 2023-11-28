@@ -1,33 +1,12 @@
 -----------
-Title: My Website
-Name: Main
-Date: 2023-09-27
-Version: 1
-Author: Rickard Armiento
-Template: default
-Base_template: base_default
+Title: Anyterial
+Name: Anyterial
 -----------
 
-My website
-==========
+Anyterial
+=========
 
-This is my formidable website. It contains the following sections:
+Anyterial collects databases connected to the [High-Throughput Toolkit (httk)](https://httk.org/).
 
-* [Blog](blog)
-* [Contact](contact)
-
-Subheading
-----------
-
-Here is some nice math:
-
-\(\int (x+y) dx\)
-
-And a code segment:
-
-``` python
-x = 1
-if x == 1:
-    # indented four spaces
-    print("x is 1.")
-```
+* [The Open Materials Database](https://openmaterialsdb.se)
+* [The ADAQ database](https://defects.anyterial.se) (Not yet released)

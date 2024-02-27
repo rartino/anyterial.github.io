@@ -6,19 +6,31 @@ Name: Home
 Anyterial
 =========
 
-Anyterial is a portal to various materials databases related to the [High-Throughput Toolkit (httk)](https://httk.org/). 
+Anyterial is a portal to various materials databases related to the [High-Throughput Toolkit (httk)](https://httk.org/) and resources for materials science and computational materials design.
+Anyterial is is maintained by the [Unit of Materials Design and Informatics](https://liu.se/en/research/materials-design-and-informatics) at [Theoretical Physics](https://liu.se/en/research/theoretical-physics) at [Linköping University](https://www.liu.se) (LiU) in Sweden.
 
-<iframe src="https://anyterial.betteruptime.com/badge?theme=light" width="250" height="30" frameborder="0" scrolling="no"></iframe>
-
-<br />
-
-<a href="http://openmaterialsdb.se/"><img style="width: 30em; align: margin:0px auto;display:block" src="https://openmaterialsdb.se/img/omdb-largebanner.jpg"></a>
-
-* [The Open Materials Database](https://openmaterialsdb.se)
-
-<br />
-<br />
+## ADAQ
 
 <a href="http://defects.anyterial.se/"><img style="width: 10em; align: margin:0px auto;display:block" src="https://defects.anyterial.se/img/ADAQ_logo_header.png"></a>
 
-* [The ADAQ database](https://defects.anyterial.se)
+The ADAQ Database provides a powerful web user interface to interactively navigate and search a rich dataset of defects and their properties.
+
+* [ADAQ Database](https://defects.anyterial.se)
+* [Publications](https://defects.anyterial.se/publications)
+
+## HADB
+
+The Hard-coating Alloys DataBase (HADB) contains data on hard-coating chemically disordered alloys.
+
+* *The HADB database is not yet released to the public*
+* [HADB: A materials-property database for hard-coating alloys, Thin Solid Films 766, 139627 (2023)](https://doi.org/10.1016/j.tsf.2022.139627)
+
+## *omdb*
+
+<a href="http://openmaterialsdb.se/"><img style="width: 30em; align: margin:0px auto;display:block" src="https://openmaterialsdb.se/img/omdb-largebanner.jpg"></a>
+
+The Open Materials Database (*omdb*) is a database of materials properties maintained by the developers of the High-Throughput Toolkit (*httk*). 
+It enables easy access to useful materials data, in particular via programmatic interaction using this toolkit.
+
+* [The Open Materials Database](https://openmaterialsdb.se)
+

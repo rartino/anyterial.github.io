@@ -1,6 +1,6 @@
 -----------
 Title: Anyterial
-Name: Anyterial
+Name: Home
 -----------
 
 Anyterial

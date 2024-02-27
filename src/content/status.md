@@ -3,9 +3,11 @@ Title: Anyterial - Status
 Name: Status
 ------
 
-Status
-======
+Anyterial status
+================
 
 This status page is also accessible independently as: https://status.anyterial.se
 
-<iframe src="https://anyterial.betteruptime.com" width="1000" height="800"></iframe>
+<br/>
+
+<iframe src="https://anyterial.betteruptime.com" width="100%" height="800"></iframe>

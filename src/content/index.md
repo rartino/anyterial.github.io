@@ -6,7 +6,9 @@ Name: Anyterial
 Anyterial
 =========
 
-Anyterial is a portal to various materials databases related to the [High-Throughput Toolkit (httk)](https://httk.org/).
+Anyterial is a portal to various materials databases related to the [High-Throughput Toolkit (httk)](https://httk.org/). 
+
+<iframe src="https://anyterial.betteruptime.com/badge?theme=light" width="250" height="30" frameborder="0" scrolling="no"></iframe>
 
 <br />
 

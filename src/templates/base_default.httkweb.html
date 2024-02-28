@@ -21,8 +21,8 @@
           <label for="checkbox_toggle" class="hamburger">&#9776;</label>
 	  <div class="menu">
 	    {menuitems:repeat::
-              <li class="nav-item">
-                <a class="nav-link" href="{page.relbaseurl}/{{pages:call:{{item}}:relurl}}">{{pages:call:{{item}}:name}}</a>
+              <li class="topli">
+                <a href="{page.relbaseurl}/{{pages:call:{{item}}:relurl}}">{{pages:call:{{item}}:name}}</a>
               </li>
 	    }
 	  </div>

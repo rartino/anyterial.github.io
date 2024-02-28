@@ -13,7 +13,7 @@ Anyterial is is maintained by the [Unit of Materials Design and Informatics](htt
 
 <a href="http://defects.anyterial.se/"><img style="width: 10em; align: margin:0px auto;display:block" src="https://defects.anyterial.se/img/ADAQ_logo_header.png"></a>
 
-The ADAQ Database provides a powerful web user interface to interactively navigate and search a rich dataset of defects and their properties.
+The Automatic Defect Analysis and Qualification (ADAQ) Database provides a powerful web user interface to interactively navigate and search a rich dataset of defects and their properties.
 
 * [ADAQ Database](https://defects.anyterial.se)
 * [Publications](https://defects.anyterial.se/publications)

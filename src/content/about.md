@@ -14,9 +14,10 @@ Anyterial is is maintained by the [Unit of Materials Design and Informatics](htt
 
 ## Stay updated
 
-Information about e.g., availability of new data, workshops, and conferences are made in the announcements section of our GitHub discussion forum at: 
+Information about e.g., availability of new data, workshops, and conferences are made in the announcements section of our GitHub discussion forum: 
 
-- [https://github.com/orgs/anyterial/discussions/categories/announcements](https://github.com/orgs/anyterial/discussions/categories/announcements)
+- Website: [https://github.com/orgs/anyterial/discussions/categories/announcements](https://github.com/orgs/anyterial/discussions/categories/announcements)
+- RSS feed: [https://github.com/anyterial/discussions/discussions/categories/announcements.atom](https://github.com/anyterial/discussions/discussions/categories/announcements.atom)
 
 These announcements are also posted on our social media channels where you can follow us to stay updated:
 

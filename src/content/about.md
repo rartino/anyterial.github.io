@@ -3,10 +3,27 @@ Title: Anyterial - About
 Name: About
 ------
 
-About
-=====
+# About
 
 Anyterial is a portal to various materials databases related to the [High-Throughput Toolkit (httk)](https://httk.org/) and resources for materials science and computational materials design.
 Anyterial is is maintained by the [Unit of Materials Design and Informatics](https://liu.se/en/research/materials-design-and-informatics) at [Theoretical Physics](https://liu.se/en/research/theoretical-physics) at [Linköping University](https://www.liu.se) (LiU) in Sweden.
 
-Contact us: rickard.armiento [at] liu.se
+- Main contact for Anyterial: rickard.armiento [at] liu.se
+- For iniative leads for our various databases, see respective database website.
+- For discussions, questions, etc., please use our [GitHub forum](https://github.com/orgs/anyterial/discussions).
+
+## Stay updated
+
+Information about e.g., availability of new data, workshops, and conferences are made in the announcements section of our GitHub discussion forum at: 
+
+- [https://github.com/orgs/anyterial/discussions/categories/announcements](https://github.com/orgs/anyterial/discussions/categories/announcements)
+
+These announcements are also posted on our social media channels where you can follow us to stay updated:
+
+- [https://www.facebook.com/anyterial](https://www.facebook.com/anyterial)
+- [https://x.com/anyterial](https://x.com/anyterial)
+- [https://www.linkedin.com/company/anyterial](https://www.linkedin.com/company/anyterial)
+
+We also have a (presently not very used) YouTube channel:
+
+- [https://www.youtube.com/@anyterial](https://www.youtube.com/@anyterial)

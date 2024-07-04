@@ -19,12 +19,12 @@ Information about e.g., availability of new data, workshops, and conferences are
 - Website: [https://github.com/orgs/anyterial/discussions/categories/announcements](https://github.com/orgs/anyterial/discussions/categories/announcements)
 - RSS feed: [https://github.com/anyterial/discussions/discussions/categories/announcements.atom](https://github.com/anyterial/discussions/discussions/categories/announcements.atom)
 
-Our announcements are also sent out via an email list, provided and completely managed by a third-party service.
-(Their privacy policy and related documents are [available here](https://moosend.com/trust/privacy-policy/).)
+Our announcements are sent out via an email list provided and managed by a third-party service.
+(Their privacy policy and related info is available [here](https://moosend.com/trust/privacy-policy/).)
 
-- Email list subscription form: https://pages.anyterial.se/NirEFA/anyterial
+- Email list subscription form: [https://pages.anyterial.se/NirEFA/anyterial](https://pages.anyterial.se/NirEFA/anyterial)
 
-Our announcements are also posted on our social media channels where you can follow us to stay updated:
+The announcements are also posted on our social media channels where you can follow us to stay updated:
 
 - [https://www.facebook.com/anyterial](https://www.facebook.com/anyterial)
 - [https://x.com/anyterial](https://x.com/anyterial)

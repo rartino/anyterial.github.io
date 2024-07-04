@@ -22,7 +22,7 @@ Information about e.g., availability of new data, workshops, and conferences are
 Our announcements are sent out via an email list provided and managed by a third-party service.
 (Their privacy policy and related info is available [here](https://moosend.com/trust/privacy-policy/).)
 
-- Email list subscription form: [https://pages.anyterial.se/NirEFA/anyterial](https://pages.anyterial.se/NirEFA/anyterial)
+- Email list subscription form: [https://pages.anyterial.se/subscribe](https://pages.anyterial.se/subscribe)
 
 The announcements are also posted on our social media channels where you can follow us to stay updated:
 

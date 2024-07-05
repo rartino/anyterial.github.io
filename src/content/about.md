@@ -40,3 +40,15 @@ The announcements are also posted on our social media channels where you can fol
 We also have a (presently not very used) YouTube channel:
 
 - [https://www.youtube.com/@anyterial](https://www.youtube.com/@anyterial)
+
+<a name="legal"></a>
+
+## Legal Information
+
+**Hosting and visit log data.** This website is hosted using [GitHub Pages](https://pages.github.com). GitHub may log information, including personal information amd logs of IP visiting addresses to comply with legal obligations and to maintain the security and integrity of their service. For more information, see the [GitHub Privacy Statement](https://help.github.com/en/github/site-policy/github-privacy-statement).
+
+**Linked third-party services.** This website contains links to various third-party services, e.g., where we post information related to our activities. This including GitHub, Facebook, X, LinkedIn, YouTube, and possibly others. These third-party services operate as separate entities from this website and our services. Visits to them are subject to their own respective terms of service and privacy policies.
+
+**Website analytics.**: We are not currently collecting any user information, including anonymized aggregated information about visits. However, we reserve the right to collect such anonymized aggregated information in the future to analyze the usage of this website and our services. 
+
+**Cookies.** This website does not use cookies.

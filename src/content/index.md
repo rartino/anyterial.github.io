@@ -1,6 +1,7 @@
 -----------
 Title: Anyterial
 Name: Home
+Template: fontpage
 -----------
 
 Anyterial

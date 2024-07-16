@@ -7,4 +7,4 @@ Name: Subscribed
 
 Thank you for subscribing to our announcements email list.
 
-- Go to our front page: [Anyterial](https://www.anyterial.se).
+- Go to our main page: [Anyterial](https://www.anyterial.se).

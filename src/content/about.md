@@ -45,7 +45,7 @@ We also have a (presently not very used) YouTube channel:
 
 <a name="legal"></a>
 
-## Legal Information
+## Legal and privacy information
 
 **Hosting and visit log data.** This website is hosted using [GitHub Pages](https://pages.github.com). GitHub may log information, including personal information amd logs of IP visiting addresses to comply with legal obligations and to maintain the security and integrity of their service. For more information, see the [GitHub Privacy Statement](https://help.github.com/en/github/site-policy/github-privacy-statement).
 

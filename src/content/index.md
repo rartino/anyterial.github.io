@@ -118,7 +118,7 @@ Template: frontpage
 <h2>HADB</h2>
 <p>The <strong>Hard-coating Alloys DataBase (HADB)</strong> contains data on hard-coating chemically disordered alloys.</p>
 <ul>
-<li><a href="https://hadb.funmat-ii.se">The HADB Database</a></li>
+<li><a href="https://hadb.funmat-ii.se">The HADB Database hosted at hadb.funmat-ii.se.</a></li>
 <li><a href="https://doi.org/10.1016/j.tsf.2022.139627">HADB: A materials-property database for hard-coating alloys, Thin Solid Films 766, 139627 (2023)</a></li>
 </ul>
 
